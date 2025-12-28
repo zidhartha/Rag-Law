@@ -155,17 +155,7 @@ Final Answer with Sources
 - Citation accuracy checking
 - Hallucination detection
 - Answer quality verification
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| Avg Retrieval Score | 0.75+ |
-| Citation Accuracy | 100% |
-| Response Time | 2-3s |
-| Total Chunks | 3,362 |
-| Embedding Dims | 1024 |
-
+- 
 ## Switching LLM Providers
 
 **Groq (Cloud):**
